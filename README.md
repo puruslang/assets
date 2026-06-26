@@ -20,3 +20,7 @@ https://raw.githubusercontent.com/puruslang/assets/main/<path>
 | `favicon.ico` / `favicon.svg` | Favicon |
 | `img/` | Background variants (icon/logo on black/white) |
 | `vscode/` | VS Code extension icons and icon theme |
+
+## License
+
+[CC-BY-4.0 license](./LICENSE)
